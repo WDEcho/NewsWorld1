@@ -1,0 +1,11 @@
+pod 'AVOSCloud'
+pod ’SDWebImage’
+pod ‘FMDB’ 
+pod ‘AFNetworking’
+pod ‘MBProgressHUD’
+pod ‘MJRefresh’
+pod ‘SDWebImage’
+pod 'SDCycleScrollView'
+pod 'MMDrawerController'
+pod 'DKNightVersion'
+pod 'MJExtension'
